@@ -42,15 +42,6 @@ Cryptocurrency prices are collected using Selenium and Beautiful Soup.
 
 ---
 
-## 🖥️ Application Preview
-<p align="center">
-  <img src="assets/app-preview.png" alt="Investment Portfolio Simulator preview" width="750">
-</p>
-
-> Add a screenshot of your application to an `assets` folder and name it `app-preview.png`.
-
----
-
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
