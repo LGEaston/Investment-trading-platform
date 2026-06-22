@@ -69,15 +69,14 @@ Cryptocurrency prices are collected using Selenium and Beautiful Soup.
 ```text
 investment-portfolio-simulator/
 │
-├── client.py          # Tkinter interface and client logic
-├── server.py          # Socket server and database communication
-├── database.py        # Creates and populates database tables
-├── webscraping.py     # Retrieves cryptocurrency prices
-├── crypto.txt         # Generated cryptocurrency data
-├── requirements.txt   # Python dependencies
+├── client.py             # Tkinter interface and client logic
+├── server.py             # Socket server and database communication
+├── database.py           # Creates and populates database tables
+├── crypto_webscraping.py # Retrieves cryptocurrency prices
+├── crypto.txt            # Generated cryptocurrency data
+├── requirements.txt      # Python dependencies
 ├── README.md
-└── assets/
-    └── app-preview.png
+
 ```
 
 ---
