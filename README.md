@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💹 Investment Portfolio Simulator
+# Investment Portfolio Simulator
 
 ### A desktop investment simulator built with Python, Tkinter, MySQL and sockets
 
